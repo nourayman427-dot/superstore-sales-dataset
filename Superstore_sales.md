@@ -1,4 +1,7 @@
+
+
 🎯 Objectives
+
 Which regions and states generate the most revenue?
 What product categories drive sales vs. profit?
 How do monthly sales trends evolve throughout the year?
